@@ -1,4 +1,4 @@
-###👋 Hi, I’m @fre3d0m1
+### 👋 Hi, I’m @fre3d0m1
 
 - 👀 I’m interested in game development and software development.
 - 🌱 I’m currently learning C++ and how to create a game engine
